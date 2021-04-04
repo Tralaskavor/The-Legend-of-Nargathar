@@ -1,0 +1,2 @@
+td/nargathar/desktop/DesktopLauncher.java
+ td.nargathar.desktop.DesktopLauncher
